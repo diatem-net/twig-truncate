@@ -1,0 +1,7 @@
+name: Twig Truncate
+type: module
+description: 'Defines a truncate filter for Twig.'
+package: Diatem
+core_version_requirement: ^8.8 || ^9
+interface translation project: twig_truncate
+interface translation server pattern: modules/custom/twig_truncate/translations/twig_truncate-%version.%language.po
